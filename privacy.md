@@ -36,7 +36,6 @@ The app also saves:
 
 - the place you choose for the daily panchāṅga;
 - your calculation and display settings;
-- your thumbs-up/down votes on "My Day" (if you give any);
 - the 24-hour unlocks you earned by watching an ad.
 
 All of this sits in the app's private storage on your phone. Other apps cannot read it, because
@@ -61,7 +60,7 @@ Data leaves your phone only in these cases:
 1. **Advertising (Google).** See section 3.
 
 2. **When you export.** "Export people (JSON)" in Settings opens Android's share menu with your
-   saved people and votes. You choose where it goes (for example email, a chat app or a drive), and
+   saved people. You choose where it goes (for example email, a chat app or a drive), and
    that app's own privacy policy then applies.
 
 3. **Android backup.** Depending on your phone's settings, Android may copy app data to your
@@ -131,7 +130,7 @@ advertising, analytics and fraud prevention.
 
 - **Delete everything:** clear the app's storage in Android settings (**Settings → Apps →
   Jyotirmala → Storage → Clear storage**), or uninstall the app. This removes every person,
-  setting, vote and unlock on the phone. If Android backup is on for your phone, a backup copy may
+  setting and unlock on the phone. If Android backup is on for your phone, a backup copy may
   remain in your Google account (section 2, point 3).
 
 - Data held by Google for advertising follows Google's retention rules. You can reset your
